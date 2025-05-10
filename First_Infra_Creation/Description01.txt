@@ -1,0 +1,7 @@
+Creating Basic Cloud Infrastucture using AWS and Terraform
+Infrastucture Conatins:
+1. VPC
+2. Two Subnets : public and private
+3. Internet Gateway
+4. Route Table
+5. Associate Route table to subnet
