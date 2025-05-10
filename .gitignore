@@ -1,8 +1,4 @@
 .env
-# Ignore ALL .terraform folders, recursively
-**/.terraform/
-# Ignore Terraform lock files
-**/.terraform.lock.hcl
-# Ignore Terraform state and backup files
-**/*.tfstate
-**/*.tfstate.backup
+.terraform/
+**.tfstate*
+.prettierrc
