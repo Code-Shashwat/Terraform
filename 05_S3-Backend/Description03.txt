@@ -1,0 +1,1 @@
+This is exercise we are creating backend "S3" for our terraform project

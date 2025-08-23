@@ -1,0 +1,5 @@
+Set the Terraform version and specify the required providers (random and AWS).
+Configure the AWS provider to use the region you are using for the course.
+Create a Random ID for the AWS S3 bucket name.
+Create an AWS S3 bucket.
+Create an output block for the bucket name.

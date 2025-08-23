@@ -1,0 +1,7 @@
+users:
+  - username : Hema
+    roles : [readonly, developer]
+  - username : Sushma
+    roles : [admin, auditor]
+  - username : Jaya
+    roles : [readonly]
